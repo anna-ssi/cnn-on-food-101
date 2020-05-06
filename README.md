@@ -1,4 +1,4 @@
-# CNN classification in food-101 dataset
+# CNN classification on food-101 dataset
 
 ## Installation
 
